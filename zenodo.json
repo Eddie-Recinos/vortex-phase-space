@@ -1,0 +1,23 @@
+{
+  "title": "Vortex Phase Space: Code for Structural Framework for Binding and Informational Richness in Complex Networks",
+  "description": "Code to reproduce all experiments in: Recinos E. 'Vortex Phase Space: A Structural Framework for Binding and Informational Richness in Complex Networks.' Submitted to Chaos: An Interdisciplinary Journal of Nonlinear Science, 2026. Includes computation of Omega_bind and Omega_rich metrics, synthetic network benchmarks (Table 1), the fixed-density SBM sweep (primary evidence, Section 8 Part 3), reservoir computing task dissociation (NARMA-10, multi-pattern, sine tracking), and C. elegans null model analysis.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Recinos, Eddie",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "network science",
+    "vortex phase space",
+    "reservoir computing",
+    "spectral graph theory",
+    "connectome",
+    "complex networks",
+    "circulation",
+    "nonlinear dynamics"
+  ],
+  "license": "MIT",
+  "related_identifiers": []
+}
